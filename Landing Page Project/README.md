@@ -2,4 +2,4 @@
 
 ## Result
 
-![landing page](result.png)
+![Landing page](result.png)
