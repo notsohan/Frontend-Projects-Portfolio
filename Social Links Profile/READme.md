@@ -9,5 +9,5 @@
 ### Built With
 
 - HTML5
-- CSS
+- CSS3
 - Flexbox
