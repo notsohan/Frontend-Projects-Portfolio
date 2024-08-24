@@ -1,6 +1,6 @@
 # Social Links Profile
 
-## Screenshot
+## Preview
 
 ![screenshot](images/result.png)
 
